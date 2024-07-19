@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Alertnity](https://github.com/Layusmen/Alertnity)
 
-- 👯 and [AfriQuotes.com](https://github.com/Layusmen/AfriQuotes)
+- 👯 and [AfriQuotes.com](https://afriQuotes.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Layusmen](https://github.com/Layusmen)
 
